@@ -1,5 +1,5 @@
 ![HelloWorld!](./Helloworld.png)
-<h1 align="center">Hi 👋, I'm ds(oza)</h1>
+<h1 align="center">Hi 👋, I'm koujiisan</h1>
 <h3 align="center">I am an inexperienced web application development engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koujiisan" alt="koujiisan" /></a> </p>
@@ -21,7 +21,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dsstjdailylife" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dsstjdailylife" height="30" width="40" /></a>
-</p>
 <a href="/https://qiita.com/koujiisan/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://qiita.com/koujiisan/feed" height="30" width="40" /></a>
 </p>
 
@@ -31,4 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koujiisan&show_icons=true&locale=en&layout=compact" alt="koujiisan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koujiisan&show_icons=true&locale=en" alt="koujiisan" /></p>
+
 
