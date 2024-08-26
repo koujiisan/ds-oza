@@ -1,4 +1,4 @@
-![](./Hello world.png)
+![](./Helloworld.png)
 <h1 align="center">Hi 👋, I'm ds(oza)</h1>
 <h3 align="center">I am an inexperienced web application development engineer</h3>
 
